@@ -25,6 +25,9 @@ class NjbusController extends Controller
             case ($time->between(Carbon::createFromTime(22, 1, 0), Carbon::createFromTime(23, 59, 59)) || $time->between(Carbon::createFromTime(0, 0, 0), Carbon::createFromTime(0, 59, 59)) ):
                 $window = 3;
                 break;
+            case ($time->between(Carbon::createFromTime(1, 0, 0), Carbon::createFromTime(3, 30, 0))):
+                $window = 4;
+                break;
             default:
                 $window = null;
                 break;
@@ -45,14 +48,14 @@ class NjbusController extends Controller
             return response('Missing input.', 417);
         }
         $window = self::getWindow(Carbon::now('America/New_York'));
-        if(!$window) {
-            $twilio->message($from, 'Check downstairs in the North Wing of the PABT. (Closer to 42nd street.)');
-            return response('Invalid window. Try again later.', 428);
-        }
         $gate = self::getGate($bus, $window);
         if(!$gate) {
             $twilio->message($from, "NJ Bus ".$bus." doesn't exist. Double check your input.");
             return response('Ok', 404);
+        }
+        if(!$window && $gate) {
+            $twilio->message($from, 'NJ Bus '.$bus.' may not be running now. Gate assignments are posted downstairs in the north wing of PABT.');
+            return response('', 428);
         }
         $twilio->message($from, "Bus ".$bus." is currently departing from gate ".$gate);
         return response('Ok', 200);
