@@ -40,24 +40,21 @@ class NjbusController extends Controller
     {
         $twilio = new Twilio(config('twilio.sid'), config('twilio.token'), config('twilio.fromNumber'));
         $bus = str_replace([' ', '&'], ['', ''], strtoupper(trim($request->input('Body'))));
-        // $from = $request->input('From');
+        $from = $request->input('From');
         if($bus == '') {
             return response('Missing input.', 417);
         }
-
         $window = self::getWindow(Carbon::now('America/New_York'));
         if(!$window) {
-            $twilio->message('+14255772788', 'Check downstairs in the North Wing of the PABT. (Closer to 42nd street.)');
+            $twilio->message('+1'.$from, 'Check downstairs in the North Wing of the PABT. (Closer to 42nd street.)');
             return response('Invalid window. Try again later.', 428);
         }
-
         $gate = self::getGate($bus, $window);
         if(!$gate) {
-            $twilio->message('+14255772788', "NJ Bus ".$bus." doesn't exist. Double check your input.");
+            $twilio->message('+1'.$from, "NJ Bus ".$bus." doesn't exist. Double check your input.");
             return response('Ok', 404);
         }
-
-        $twilio->message('+14255772788', "Bus ".$bus." is currently departing from gate ".$gate);
+        $twilio->message('+1'.$from, "Bus ".$bus." is currently departing from gate ".$gate);
         return response('Ok', 200);
     }
 }
