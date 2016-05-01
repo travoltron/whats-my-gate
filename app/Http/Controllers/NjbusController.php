@@ -36,7 +36,10 @@ class NjbusController extends Controller
     }
 
     public function getGate($bus, $window) {
-        return config('routes.'.$bus.'.gate.'.$window);
+        if(config('routes.'.$bus)) {
+            return config('routes.'.$bus.'.gate.'.$window);
+        }
+        return false;
     }
 
     public function incomingRequest(Request $request)
@@ -49,11 +52,11 @@ class NjbusController extends Controller
         }
         $window = self::getWindow(Carbon::now('America/New_York'));
         $gate = self::getGate($bus, $window);
-        if(!$gate) {
+        if($gate === false) {
             $twilio->message($from, "NJ Bus ".$bus." doesn't exist. Double check your input.");
             return response('Ok', 404);
         }
-        if(!$window && $gate) {
+        if(!$window && $gate !== false) {
             $twilio->message($from, 'NJ Bus '.$bus.' may not be running now. Gate assignments are posted downstairs in the north wing of PABT.');
             return response('', 428);
         }
