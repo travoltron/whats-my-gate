@@ -56,8 +56,8 @@ class NjbusController extends Controller
             $twilio->message($from, "NJ Bus ".$bus." doesn't exist. Double check your input.");
             return response('Ok', 404);
         }
-        if(!$window && $gate !== false) {
-            $twilio->message($from, 'NJ Bus '.$bus.' may not be running now. Gate assignments are posted downstairs in the north wing of PABT.');
+        if($window = 4 && $gate !== false) {
+            $twilio->message($from, 'NJ Bus '.$bus.' may not be running now. If it is, gate assignments are posted downstairs in the north wing of PABT.');
             return response('', 428);
         }
         $twilio->message($from, "Bus ".$bus." is currently departing from gate ".$gate);
