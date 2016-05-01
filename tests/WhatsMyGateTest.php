@@ -35,7 +35,7 @@ class WhatsMyGateTest extends TestCase
     public function testValidBus()
     {
         $njbus = new NjbusController();
-        $this->assertNull($njbus->getGate('FAKE', 0));
+        $this->assertNotNull($njbus->getGate('123', 0));
     }
 
 }
