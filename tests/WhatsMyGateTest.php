@@ -1,12 +1,13 @@
 <?php
 
-use Carbon\Carbon;
 use App\Http\Controllers\NjbusController;
+use Carbon\Carbon;
 
 class WhatsMyGateTest extends TestCase
 {
     /**
-     * Test empty request handled
+     * Test empty request handled.
+     *
      * @return void
      */
     public function testEmptyRequest()
@@ -32,10 +33,10 @@ class WhatsMyGateTest extends TestCase
         $njbus = new NjbusController();
         $this->assertFalse($njbus->getGate('FAKE', 0));
     }
+
     public function testValidBus()
     {
         $njbus = new NjbusController();
         $this->assertNotNull($njbus->getGate('123', 0));
     }
-
 }
