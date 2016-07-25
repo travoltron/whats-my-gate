@@ -1,4 +1,5 @@
 <?php
+
 return [
     '107L' => [
         'gate' => [
@@ -10,16 +11,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -33,16 +34,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -56,16 +57,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -79,16 +80,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -102,16 +103,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -125,16 +126,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -148,16 +149,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -171,16 +172,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -194,16 +195,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -217,16 +218,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -240,16 +241,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -263,16 +264,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -286,16 +287,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -309,16 +310,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -332,16 +333,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -355,16 +356,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -378,16 +379,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -401,16 +402,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -424,16 +425,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -447,16 +448,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -470,16 +471,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -493,16 +494,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -516,16 +517,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -539,16 +540,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -562,16 +563,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -585,16 +586,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -608,16 +609,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -631,16 +632,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -654,16 +655,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -677,16 +678,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -700,16 +701,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -723,16 +724,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -746,16 +747,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -769,16 +770,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -792,16 +793,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -815,16 +816,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -838,16 +839,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -861,16 +862,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -884,16 +885,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -907,16 +908,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -930,16 +931,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -953,16 +954,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -976,16 +977,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -999,16 +1000,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1022,16 +1023,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1045,16 +1046,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1068,16 +1069,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1091,16 +1092,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1114,16 +1115,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1137,16 +1138,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1160,16 +1161,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1183,16 +1184,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1206,16 +1207,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1229,16 +1230,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1252,16 +1253,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1275,16 +1276,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1298,16 +1299,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1321,16 +1322,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1344,16 +1345,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1367,16 +1368,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1390,16 +1391,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1413,16 +1414,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1436,16 +1437,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1459,16 +1460,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1482,16 +1483,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1505,16 +1506,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1528,16 +1529,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1551,16 +1552,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1574,16 +1575,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1597,16 +1598,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1620,16 +1621,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1643,16 +1644,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1666,16 +1667,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1689,16 +1690,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1712,16 +1713,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1735,16 +1736,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1758,16 +1759,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1781,16 +1782,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1804,16 +1805,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1827,16 +1828,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1850,16 +1851,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
@@ -1873,16 +1874,16 @@ return [
         ],
         'departures' => [
             'weekday' => [
-                // 
+                //
             ],
             'saturday' => [
-                // 
+                //
             ],
             'sunday' => [
-                // 
+                //
             ],
             'holiday' => [
-                // 
+                //
             ],
         ],
     ],
