@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: notnoopci/php:7.1.5-browsers
+      - image: zaherg/php-7.1-xdebug-alpine:latest
     working_directory: ~/whats-my-gate
     steps:
       - checkout
