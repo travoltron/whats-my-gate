@@ -3,7 +3,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: zaherg/php-7.1-xdebug-alpine:latest
+      - image: connectmedica/php7.1-xdebug:latest
     working_directory: ~/whats-my-gate
     steps:
       - checkout
