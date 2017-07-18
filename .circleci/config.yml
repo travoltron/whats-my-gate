@@ -18,3 +18,4 @@ jobs:
           paths:
             - vendor
       - run: ./vendor/bin/phpunit
+      - run: bash <(curl -s https://codecov.io/bash) -t be997b73-a8cc-41c5-99ed-2030501a9619
